@@ -37,6 +37,10 @@ import food from "../assets/projects/food-delivery.png";
 import certificate from "../assets/projects/certificate.jpg";
 import getAge from "../assets/projects/get-age.png";
 import admin from "../assets/projects/admin-panel.png";
+import heroUI from "../assets/heroui_logo.png";
+import sadCn from "../assets/sadcn_logo.png";
+import typeScript from "../assets/typescript_logog.webp";
+import postGreSQL from "../assets/postgreSQL_logo.png";
 
 export default {
   email,
@@ -62,7 +66,11 @@ export default {
   profile1,
   circle,
   logo,
-  project:{
+  typeScript,
+  heroUI,
+  sadCn,
+  postGreSQL,
+  project: {
     codengeek,
     iicbackend,
     iic,
